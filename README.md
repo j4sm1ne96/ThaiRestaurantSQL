@@ -10,9 +10,9 @@ Project Requirements:
 - Create DB diagram where all table relations are shown
 
 Additional Requirements: 
-*In your database, create a stored procedure and demonstrate how it runs
-- In your database, create a trigger and demonstrate how it runs
-*In your database, create an event and demonstrate how it runs
-*Create a view that uses at least 3-4 base tables;
-*Prepare and demonstrate a query that uses the view to produce a logically arranged result set for analysis.
-*Prepare an example query with group by and having to demonstrate how to extract data from your DB for analysis
+- [ ] In your database, create a stored procedure and demonstrate how it runs
+- [x] In your database, create a trigger and demonstrate how it runs 
+- [ ] In your database, create an event and demonstrate how it runs
+- [ ] Create a view that uses at least 3-4 base tables;
+- [ ] Prepare and demonstrate a query that uses the view to produce a logically arranged result set for analysis.
+- [ ] Prepare an example query with group by and having to demonstrate how to extract data from your DB for analysis
