@@ -16,3 +16,7 @@ Additional Requirements:
 - [ ] Create a view that uses at least 3-4 base tables;
 - [ ] Prepare and demonstrate a query that uses the view to produce a logically arranged result set for analysis.
 - [ ] Prepare an example query with group by and having to demonstrate how to extract data from your DB for analysis
+
+
+<img width="761" alt="Screenshot 2023-05-19 at 9 21 50 PM" src="https://github.com/j4sm1ne96/ThaiRestaurantSQL/assets/83115753/ca6d54d0-9ca1-4cee-ae69-29ac806c73c3">
+
