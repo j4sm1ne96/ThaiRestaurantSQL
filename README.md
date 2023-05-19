@@ -1,4 +1,4 @@
-# ThaiRestaurantSQL
+# Thai Restaurant SQL Project
 SQL Database Final Project as part of the Code First Girls SQL Course
 
 Project Requirements:
